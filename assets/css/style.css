@@ -1,0 +1,34 @@
+/*
+===============
+    Main Menu
+===============
+*/
+
+body{
+    background: gold;
+}
+
+.navbar{
+    background: transparent;
+}
+
+nav .navbar-brand{
+    font-family: 'Great Vibes', cursive; 
+    font-weight: bold; 
+    font-size: 25px;
+}
+
+nav form .btn-underline-custom{
+    color: white;
+}
+
+nav form .btn-outline-custom{
+    padding-left: 30px;
+    border: 2px solid white;
+    color: white;
+}
+nav form .btn-outline-custom:hover{
+    border: 2px solid white;
+    background: white;
+    color: gray;
+}
