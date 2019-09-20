@@ -131,12 +131,15 @@ outline:   none;
 }
 
 .Restaurant{
-width    :   200px;
-height   :   30px; 
+width    :   250px;
+height   :   30px;
+border-radius:  25px; 
 }
 
 .Location{
-width :   200px;
+width :   250px;
+border-radius:  25px;
+
 
 }
 
@@ -159,4 +162,11 @@ background:pink
 position: absolute;
 background: rgba(0,0,0,0.5)
 
+}
+
+.form-row{
+    width: 50%;
+}
+.form-group{
+    width: 50%;
 }
